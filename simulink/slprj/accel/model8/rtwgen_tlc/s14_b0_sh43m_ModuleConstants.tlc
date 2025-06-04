@@ -1,0 +1,6 @@
+%implements s14_b0_sh43m_ModuleConstants "C"
+
+%function ModuleConstants(block) Output
+
+#define model8_period (0.01)
+%endfunction
